@@ -1,7 +1,5 @@
-# Demineur
-J'ai réalisé se démineur en cour de Javascript en utilisant Node.Js. Le jeu suit les règles du démineur classique à savoir:
--L'apparition alléatoire de mine
--En cliquant sur une mine le jeu se termine
--Si une case est "flag" le joueur ne peut pas cliquer dessus
--En cliquant sur un 0 toute les cases 0 et adjacante sont dévoilé même si la case a été préalablement flagué
--La partie se termine quand toute les cases qui ne sont pas minés sont découvertes.
+J'ai réalisé ce démineur en cours de Javascript en utilisant Node.Js. Le jeu suit les règles du démineur classique à savoir : 1) L'apparition aléatoire de mines. 
+2) En cliquant sur une mine le jeu se termine. 
+3) Si une case est "flag" le joueur ne peut pas cliquer dessus. 
+4) En cliquant sur un 0 toutes les cases 0 et adjacentes sont dévoilées même si la case a été préalablement "flaguée". 
+5) La partie se termine quand toutes les cases qui ne sont pas minées sont découvertes.
